@@ -32,7 +32,7 @@
     "dependencies": {
         "admin-lte": "^2.4.10",
         "bootstrap-datepicker": "^1.8.0",
-        "datatables.net": "^1.10.19",
+        "datatables.net": "^1.10.22",
         "datatables.net-bs": "^1.10.19",
         "datatables.net-responsive": "^2.2.3",
         "datatables.net-responsive-bs": "^2.2.3",
